@@ -2,11 +2,9 @@ Norton Account Login – Manage, Download & Setup Protection
 =================================================================================
 
 .. meta::
-   :msvalidate.01: 496FB76CB4BF986B84B3D95879586D39
-   :google-site-verification: A_NQsyCuasCJRK7IhYwTsyZ9qBh4bGquPfK0_6sAXkk
-   :description: Learn how to apply for the $50,000 Centrelink Bereavement Payment. Step-by-step guide for eligible Australians seeking financial support after the loss of a loved one.
-
-
+   :msvalidate.01: B7706E36D611BF7979D3F3D35626B794
+   :google-site-verification: VPv9uWG6xJ9Lf84ib8edb9e8luYtGmoKks0BJrEes4w
+   
 Accessing your Norton account allows you to manage your security settings, download protection for your devices, and set up your subscription quickly and easily. Whether you're installing Norton for the first time or managing existing devices, logging into your account is the first step toward complete digital safety.
 
 .. raw:: html
@@ -99,3 +97,4 @@ Accessing your Norton account allows you to manage your security settings, downl
 * Join the Norton Community Forum for peer support.
 
 * Request a remote assistance session if needed.
+
